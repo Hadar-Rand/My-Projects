@@ -1,6 +1,6 @@
 import random
 
-pyramid =[[],[],[],[],[]]    #matrix with 5 rows ***pyramid[4] is bottom row of pyramid, pyramid[3] is second row of pyramid...
+pyramid =[[],[],[],[],[]]    #matrix with 5 rows
 colors = ['Blue', 'Pink', 'Yellow']
 pyramidCorrectGlobal1 = False       #to know if the pyramid is Correct (change each time there is a problem noBlueOnEdges)
 pyramidCorrectGlobal2 = False       #to know if the pyramid is Correct (change each time there is a problem noPinkNextToBlue)
